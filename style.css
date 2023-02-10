@@ -1,0 +1,75 @@
+.body{
+    margin:0em;
+    background-color: grey;
+}
+.header{
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+    background-color: black;
+    padding: 0.2em; 
+    align-items: center;
+    /* min-width: none; */
+    margin-bottom:0.2em;
+    margin: 0.1em;
+    border-radius: 1em;
+}
+
+#logo{
+    width: 6em;
+    margin: 0.3em;
+    border-radius: 5em;
+}
+.header h1{
+    margin: auto;
+    font-style: italic;
+}
+
+.main{
+    min-width: 375px;
+    margin: 0em;
+}
+
+.content{
+    border-radius: 1em;
+    text-transform: capitalize;
+    text-decoration: underline;
+    font-style: oblique;
+    background-color: rgb(31, 16, 16);
+    border: 1px solid black;
+    color: pink;
+    padding-left: 1em;
+    margin: 0.1em;
+    padding-bottom: 1em;
+}
+#img{
+    width: 155px;
+    height: 140px;
+    padding-top: 0.2em;
+    padding-right: 1em;
+
+}
+div p{
+    color: aqua;
+    margin: 0.2em;
+}
+div h3{
+margin-bottom: 0px;
+margin-left: 0.3em;
+}
+a{
+    color: wheat;
+}
+div h4{
+    margin: 0em 0.3em ;
+}
+.footer{
+    border-radius: 1em;
+    text-align: center;
+    background-color: black;
+    color: whitesmoke;
+    margin: 0.1em;
+    background-color: black;
+}
+
+    
